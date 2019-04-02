@@ -44,3 +44,5 @@ C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\bin\Micr
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\bin\Microsoft.AI.Web.xml
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.dll
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.pdb
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.pdb
