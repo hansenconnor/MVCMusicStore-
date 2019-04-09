@@ -44,5 +44,17 @@ C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\bin\Micr
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\bin\Microsoft.AI.Web.xml
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.dll
 C:\Users\hanse174\Desktop\MVCMusicStoreCodeFirst\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.pdb
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\ApplicationInsights.config
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\MVCMusicStoreCodeFirst.dll.config
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\MVCMusicStoreCodeFirst.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\MVCMusicStoreCodeFirst.pdb
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\EntityFramework.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\System.Web.Optimization.dll
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\EntityFramework.xml
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\System.Web.Optimization.xml
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.csproj.CoreCompileInputs.cache
 C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.dll
 C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.pdb
