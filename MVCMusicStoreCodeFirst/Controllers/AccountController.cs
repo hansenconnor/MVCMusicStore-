@@ -14,7 +14,10 @@ namespace MVCMusicStoreCodeFirst.Controllers
         // GET: Account
         public ActionResult Index()
         {
-            return View();
+            using (AccountDBContext db = new AccountDBContext())
+            {
+                return View(db.userAccount.ToList());
+            }
         }
 
         public ActionResult Register()
@@ -36,6 +39,44 @@ namespace MVCMusicStoreCodeFirst.Controllers
                 ViewBag.Message = account.firstName + " " + account.lastName + " successfully registered.";
             }
             return View();
+        }
+
+        // Handle user login
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Login(UserAccount user)
+        {
+            using (AccountDBContext db = new AccountDBContext())
+            {
+                var usr = db.userAccount.Single(u => u.Username == user.Username && u.Password == user.Password);
+                if (usr != null)
+                {
+                    Session["UserID"] = usr.UserID.ToString();
+                    Session["Username"] = usr.Username.ToString();
+                    return RedirectToAction("LoggedIn");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Incorrect Username or Password");
+                }
+            }
+            return View();
+        }
+
+        public ActionResult LoggedIn()
+        {
+            if (Session["UserId"] != null)
+            {
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login");
+            }
         }
     }
 }
