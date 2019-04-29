@@ -58,3 +58,4 @@ C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\bin\System.Web.O
 C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.csproj.CoreCompileInputs.cache
 C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.dll
 C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.pdb
+C:\Users\hanse174\Desktop\MVCMusicStore-\MVCMusicStoreCodeFirst\obj\Debug\MVCMusicStoreCodeFirst.csprojResolveAssemblyReference.cache
