@@ -43,11 +43,10 @@
                     <li class="nav-item">@Html.ActionLink("Recording Artists", "Index", "Artists", null, new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink("Genres", "Index", "Genres", null, new { @class = "nav-link" })</li>
                     <li class="nav-item">@Html.ActionLink("Order Form", "Index", "Orders", null, new { @class = "nav-link" })</li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link">
-                            <i class="material-icons">apps</i> Template
-                        </a>
-                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="nav-item">@Html.ActionLink("Register", "Register", "Account", null, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Login", "Login", "Account", null, new { @class = "nav-link" })</li>
                 </ul>
             </div>
         </div>
